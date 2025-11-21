@@ -9,6 +9,8 @@ _____________________________________________________
 
 # CoolMathTime
 CoolMathTime is an open sourced math website made by the one and only. have fun learning with coolmathtime.
+
+![CoolMathTime Logo](https://ik.imagekit.io/l7uslhlci/IMG_3420.png)
 _____________________________________________________
 
 # VisualBasics
