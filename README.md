@@ -14,4 +14,4 @@ _____________________________________________________
 # VisualBasics
 VisualBasics is an open source game project including bullet bros and bitlife based off mathsite (no relation to matt sited)
 
-[VB Logo](https://ik.imagekit.io/l7uslhlci/IMG_3404.png?updatedAt=1763249001513)
+![VB Logo](https://ik.imagekit.io/l7uslhlci/IMG_3404.png?updatedAt=1763249001513)
