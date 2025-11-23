@@ -1,5 +1,5 @@
 # ForeignBandss
-Heyy im [bandss](htps://github.com/foreignbandss) im currently working on [CoolMathTime](http://coolmathtime.github.io/) and [VisualBasics](http://visualbasics.github.io/). I am colaborating with [AJM](https://github.com/ajm19826) to work on [HouseLearning](http://houselearning.github.io).
+Heyy im [bandss](htps://github.com/foreignbandss) im currently working on [CoolMathTime](http://coolmathtime.github.io/) and [VisualBasics](http://visualbasics.github.io/). If You Fork And Of My Websites Make Sure To Follow Me. I am colaborating with [AJM](https://github.com/ajm19826) to work on [HouseLearning](http://houselearning.github.io).
 
 
 ________________________________________________________________________
